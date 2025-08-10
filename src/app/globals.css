@@ -18,6 +18,11 @@
 body {
   color: var(--foreground);
   background: var(--background);
+  overflow-x: hidden;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+  scroll-behavior: smooth;
 }
 
 @layer utilities {
@@ -43,6 +48,13 @@ body {
   scrollbar-width: none;
   -ms-overflow-style: none;
 }
+
 .scrollbar-hide::-webkit-scrollbar {
   display: none;
+}
+
+html,
+body,
+#__next {
+  height: 100%;
 }
