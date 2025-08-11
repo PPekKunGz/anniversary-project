@@ -33,7 +33,7 @@ A beautiful and interactive love confession web application built with Next.js, 
 
 - Design & Code by [@PPekKunGzDev](https://github.com/PPekKunGzDev)
 - Animations inspired by [v0.dev](https://v0.dev)
-- Love confession concept by [@PPekKunGzDev](https://github.com/PPekKunGzDev)
+- Love confession concept by https://www.youware.com/project/8d73ndrpuw?enter_from=personal_center
 - README / LICENSE by Claude-3.5-Sonnet
 
 ## License
